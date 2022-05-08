@@ -1,5 +1,5 @@
 ## Description
-Managed DotNet wrapper for the [taskflow](https://github.com/taskflow/taskflow) C++ library
+Managed DotNet wrapper for the [taskflow](https://github.com/taskflow/taskflow) C++ library.
 Experimenτal measures in the tester project indicate that massive task execution is slightly faster than
 native .net tasks. May be helpful for those who struggle with scaling huge machine learning models or parallel programming.
 You received for free, you gave it for free
